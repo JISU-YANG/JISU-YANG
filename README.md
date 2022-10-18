@@ -1,11 +1,11 @@
-:wave: Pleased to meet you.
+### 👋 Pleased to meet you.
 
-I'm JISU YANG, a developer who thinks about it.
-- I'm achieving my dream of being an inventor.
-- I like to understand by observation and analysis.
-- If necessary, I will definitely do it.
-- I'm interested in productivity, lifestyle tools.
-- I try to be a decent and mature person.
+Hi. I'm JISU YANG, a developer who thinks about it.
+- I'm achieving my dream of being an inventor. 💡
+- I like to understand by observation and analysis. 🔭
+- If necessary, I will definitely do it. ✔
+- I'm interested in productivity, lifestyle tools. 🔧
+- I try to be a decent and mature person. 😃
 
 </br>
 
