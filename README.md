@@ -7,12 +7,6 @@ Hi. I'm JISU YANG, a developer who thinks about it.
 - I'm interested in productivity, lifestyle tools. 🔧
 - I try to be a decent and mature person. 😃
 
-</br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu-yang)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
-
 [Learn more](https://jisuyang.com)
 
 <!---
