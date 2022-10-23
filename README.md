@@ -1,11 +1,11 @@
 ### 👋 Pleased to meet you.
+I'm Jisu Yang, a meditative web developer.
 
-Hi. I'm JISU YANG, a developer who thinks about it.
-- I'm achieving my dream of being an inventor. 💡
-- I like to understand by observation and analysis. 🔭
-- If necessary, I will definitely do it. ✔
-- I'm interested in productivity, lifestyle tools. 🔧
-- I try to be a decent and mature person. 😃
+- I'm making my dream of being an inventor come true. 💡
+- I love to understand things with deep observation and analysis. 🔭
+- I make it at any cost if necessary. ✔
+- Productivity and lifestyle tools are what make me really fascinated. 🔧
+- I always try to be elegant and mentally mature. 😃
 
 [Learn more](https://jisuyang.com)
 
