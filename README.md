@@ -1,5 +1,5 @@
 ### 👋 Pleased to meet you.
-I'm Jisu Yang, a meditative web developer.
+I'm Jisu Yang, a meditative developer.
 
 - I'm making my dream of being an inventor come true. 💡
 - I love to understand things with deep observation and analysis. 🔭
