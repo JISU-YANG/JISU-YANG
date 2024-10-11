@@ -7,7 +7,7 @@ I'm Jisu Yang, a meditative developer.
 - Productivity and lifestyle tools are what make me really fascinated. 🔧
 - I always try to be elegant and mentally mature. 😃
 
-[Learn more](https://jisuyang.com)
+[Learn more](https://jisulog.com)
 
 <!---
 JISU-YANG/JISU-YANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
